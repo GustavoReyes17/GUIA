@@ -1,10 +1,10 @@
 #include <iostream>
 #include "Punto.h"
+#include "linea.h"
 using namespace std;
 
 int main()
 {
-    Punto miPunto(5,5);
-    miPunto.PrintData();
+    Linea miLinea(1,1,5,2);
     return 0;
 }
