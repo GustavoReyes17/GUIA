@@ -8,6 +8,7 @@ class Punto
         Punto();
         void AsignarX(float PosX);
         void AsignarY(float PosY);
+        void Negate();
         void PrintData();
         float ObtenerX();
         float ObtenerY();
