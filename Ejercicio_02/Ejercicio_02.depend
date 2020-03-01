@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1583027569 source:d:\users\reyes\desktop\ejercicio_02\main.cpp
+	<iostream>
+	"Punto.h"
+	"Linea.h"
+
+1583026248 source:d:\users\reyes\desktop\ejercicio_02\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1583026248 d:\users\reyes\desktop\ejercicio_02\punto.h
+
+1583027745 d:\users\reyes\desktop\ejercicio_02\linea.h
+	"Punto.h"
+	<math.h>
+	<iostream>
+
+1583026248 source:d:\users\reyes\desktop\guia-master\ejercicio_02\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1583026248 d:\users\reyes\desktop\guia-master\ejercicio_02\punto.h
+

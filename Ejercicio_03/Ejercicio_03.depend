@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:d:\users\reyes\desktop\guia-master\ejercicio_03\main.cpp
+	<iostream>
+
+1583102264 source:d:\users\reyes\desktop\guia-master\ejercicio_03\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1583097312 d:\users\reyes\desktop\guia-master\ejercicio_03\fecha.h
+
