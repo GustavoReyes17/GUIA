@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:d:\users\reyes\desktop\ejercicio_04\main.cpp
+	<iostream>
+
+1583104886 source:d:\users\reyes\desktop\ejercicio_04\tiempo.cpp
+	"Tiempo.h"
+	<iostream>
+
+1583104886 d:\users\reyes\desktop\ejercicio_04\tiempo.h
+
